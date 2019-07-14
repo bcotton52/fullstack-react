@@ -10,7 +10,7 @@
 | ---- | -------------------------------------- | -------- | ----------- |
 |      | _Complete the Udemy React MovieDb App_ | High     | Not Started |
 |      | \_Scrimba - React\_\_                  | High     | Not Started |
-|      | Part 1 (FSO)                           | High     | Not Sarted  |
+|      | Part 1 (FSO)                           | High     | Not Started  |
 
 ---
 
