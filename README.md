@@ -6,11 +6,11 @@
 
 ---
 
-| Date | Task Details                           | Priority | Status      |
-| ---- | -------------------------------------- | -------- | ----------- |
-|      | _Complete the Udemy React MovieDb App_ | High     | Not Started |
-|      | \_Scrimba - React\_\_                  | High     | Not Started |
-|      | Part 1 (FSO)                           | High     | Not Started  |
+| Date | Task Details                           | Priority | Status       |
+| ---- | -------------------------------------- | -------- | ------------ |
+|      | _Complete the Udemy React MovieDb App_ | High     | Lessons 1-15 |
+|      | \_Scrimba - React\_\_                  | High     | Lessons 1-8  |
+|      | Part 1 (FSO)                           | High     | Reading Done |
 
 ---
 
